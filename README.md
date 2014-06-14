@@ -1,2 +1,3 @@
-jquery.scrollto
-===============
+jQuery scrollTo Plugin
+=============
+A smooth scroll plugin
